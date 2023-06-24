@@ -1,0 +1,4 @@
+Bu çalışmada olumlu, olumsuz ve nötr olmak üzere üç farklı görüş incelenmiştir. Veri setindeki 11428 kullanıcı yorumunda 4242 tane olumlu, 4228 tane olumsuz ve 2958 tane nötr görüş bulunmaktadır. Elde edilen sonuçlara göre TF-IDF metodu makine öğrenmesi için Vektör Uzay Modeline kıyasla daha yüksek doğruluk oranı ortaya çıkardığı görülmüştür. Türkçe metinler için bu tez çalışmasında SnowballStemmer kütüphanesindeki TurkishStemmer kullanılmıştır. Türkçe kelimelerdeki çekim eklerini kaldıran yani, kelimeleri köklerine ayıran bu çalışma henüz yüksek performans gösterememektedir. 
+
+	Yapılan çalışma sonucunda üç makine öğrenme algoritması ve iki metin sayısallaştırma yöntemi kullanılmıştır. Algoritmalar arasında en yüksek doğruluk değerine %88,38 ile Lineer çekirdekli Destek Vektör Makinesinin TF-IDF ile kullanımında ulaşılmıştır. En düşük doğruluk değerine ise %84,83 ile  RBF çekirdekli Destek Vektör Makinesinin Vektör Uzay Model ile kullanılmıştır.
+
